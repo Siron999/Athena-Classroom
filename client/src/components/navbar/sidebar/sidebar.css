@@ -1,0 +1,29 @@
+.sidebarContainer{
+    background: #5C4F6B;
+    width: 100px;
+    position: fixed;
+    height: 100vh;
+
+}
+
+.nav{
+    color: white;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.nav:hover{
+    color: #a7a6a6;
+}
+
+.title{
+    text-align: center;
+}
+.owlLogo{
+    width: 80px;
+    height: 80px;
+}
+.fa-home{
+
+}
+

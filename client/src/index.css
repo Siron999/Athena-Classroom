@@ -1,0 +1,10 @@
+*{
+  margin: 0 ;
+  padding: 0 ;
+  box-sizing: border-box !important;
+  font-family: 'Yantramanav', sans-serif !important;
+}
+body{
+  background: #DED1ED !important;
+}
+
